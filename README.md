@@ -44,7 +44,7 @@ Cloner le dépôt afin de récupérer les données du projet :
 
 ## Partie 1 de l'exercice 
 
-L'objectif est de créer des fonctions d'API RESTful retournant les informations demandées.
+L'objectif est de créer des fonctions d'API retournant les informations demandées.
 
 Le langage de programmation doit être du javascript/typescript. Le choix des outils, framework, bibliothèques utilisées pour vous aider dans l'implémentation est libre. 
 
