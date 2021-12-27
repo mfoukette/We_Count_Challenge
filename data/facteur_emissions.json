@@ -1,0 +1,95 @@
+[
+    {
+        "id": 10632,
+        "nom": "Véhicule diesel",
+        "unite": "km",
+        "unite2": null,
+        "impactUnitaireRechauffementClimatique": 0.186
+    },
+    {
+        "id": 12454,
+        "nom": "Véhicule essence",
+        "unite": "km",
+        "unite2": null,
+        "impactUnitaireRechauffementClimatique": 0.198
+    },
+    {
+        "id": 6396,
+        "nom": "Covoiturage - diesel",
+        "unite": "km",
+        "unite2": "passager",
+        "impactUnitaireRechauffementClimatique": 0.169
+    },
+    {
+        "id": 13428,
+        "nom": "Covoiturage - essence",
+        "unite": "km",
+        "unite2": "passager",
+        "impactUnitaireRechauffementClimatique": 0.18
+    },
+    {
+        "id": 18614,
+        "nom": "TER",
+        "unite": "km",
+        "unite2": "passager",
+        "impactUnitaireRechauffementClimatique": 0.0243
+    },
+    {
+        "id": 16233,
+        "nom": "TGV",
+        "unite": "km",
+        "unite2": "passager",
+        "impactUnitaireRechauffementClimatique": 0.00174
+    },
+    {
+        "id": 9054,
+        "nom": "Marche à pied",
+        "unite": "km",
+        "unite2": null,
+        "impactUnitaireRechauffementClimatique": 0
+    },
+    {
+        "id": 10806,
+        "nom": "Vélo électrique",
+        "unite": "km",
+        "unite2": null,
+        "impactUnitaireRechauffementClimatique": 0.011
+    },
+    {
+        "id": 25781,
+        "nom": "Tram",
+        "unite": "km",
+        "unite2": null,
+        "impactUnitaireRechauffementClimatique": 0.0472
+    },
+    {
+        "id": 8779,
+        "nom": "Bus",
+        "unite": "km",
+        "unite2": null,
+        "impactUnitaireRechauffementClimatique": 0.137
+    },
+    {
+        "id": 8780,
+        "nom": "Elec_estimation",
+        "unite": "m²",
+        "unite2": "kWh/m²",
+        "impactUnitaireRechauffementClimatique": 0.0599
+    },
+    {
+        "id": 9000,
+        "nom": "Gaz",
+        "unite": "m3",
+        "unite2": null,
+        "impactUnitaireRechauffementClimatique": 2.53
+    },
+    {
+        "id": 10000,
+        "nom": "Portable",
+        "unite": "Unité",
+        "unite2": "Ans",
+        "impactUnitaireRechauffementClimatique": 156
+    }
+
+
+]

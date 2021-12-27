@@ -1,0 +1,146 @@
+[
+    {
+        "id": 0,
+        "nom": "Voiture",
+        "donneesactivites": [
+            {
+                "id": 10632,
+                "quantite": 175,
+                "quantite2": null
+            },
+            {
+                "id": 12454,
+                "quantite": 175.6,
+                "quantite2": null
+            },
+            {
+                "id": 6396,
+                "quantite": 283.6,
+                "quantite2": 3
+            },
+            {
+                "id": 13428,
+                "quantite": 152,
+                "quantite2": 4
+            },
+            {
+                "id": 6396,
+                "quantite": 234.3,
+                "quantite2": 2
+            },
+            {
+                "id": 16233,
+                "quantite": 6.1
+            },
+            {
+                "id": 8101,
+                "quantite": 370
+            },
+            {
+                "id": 7993,
+                "quantite": 49.3
+            }
+        ]
+    },
+    {
+        "id": 1,
+        "nom": "Train",
+        "donneesactivites": [
+            {
+                "id": 18614,
+                "quantite": 106,
+                "quantite2": 50
+            },
+            {
+                "id": 16233,
+                "quantite": 5,
+                "quantite2": 100
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "nom": "Mobilite douce",
+        "donneesactivites": [
+            {
+                "id": 9054,
+                "quantite": 74.8,
+                "quantite2": null
+            },
+            {
+                "id": 10806,
+                "quantite": 113.1,
+                "quantite2": null
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "nom": "Transport en commun",
+        "donneesactivites": [
+            {
+                "id": 8779,
+                "quantite": 23.7,
+                "quantite2": null
+            },
+            {
+                "id": 25781,
+                "quantite": 79.4,
+                "quantite2": null
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "nom": "Electricité",
+        "donneesactivites": [
+            {
+                "id": 8780,
+                "quantite":2000,
+                "quantite2":150
+            },
+            {
+                "id": 8785,
+                "quantite": 14000,
+                "quantite2": null
+            },
+            {
+                "id": 8780,
+                "quantite":500,
+                "quantite2":120
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "nom": "Energie fossile",
+        "donneesactivites": [
+            {
+                "id": 9000,
+                "quantite": 3500,
+                "quantite2": null
+            }
+        ]
+    },
+    {
+        "id": 6,
+        "nom": "Ordinateur",
+        "donneesactivites": [
+            {
+                "id": 10000,
+                "quantite": 20,
+                "quantite2": 5
+            },
+            {
+                "id": 10000,
+                "quantite": 10,
+                "quantite2": 2
+            },
+            {
+                "id": 10000,
+                "quantite": 200,
+                "quantite2": 10
+            }
+        ]
+    }
+]

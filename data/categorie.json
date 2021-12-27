@@ -1,0 +1,27 @@
+[
+    {
+        "id": 0,
+        "nom": "Déplacements domicile-travail",
+        "activityIds": [
+            0,
+            1,
+            2,
+            3
+        ]
+    },
+    {
+        "id": 1,
+        "nom": "Energie des bâtiments",
+        "activityIds": [
+            4,
+            5
+        ]
+    },
+    {
+        "id": 2,
+        "nom": "Achats informatiques",
+        "activityIds": [
+            6
+        ]
+    }
+]
